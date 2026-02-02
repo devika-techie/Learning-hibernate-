@@ -4,10 +4,17 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.kodnest</groupId>
+<<<<<<< HEAD
   <artifactId>firsthibernate1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
   <name>firsthibernate1</name>
+=======
+  <artifactId>secondhibernate</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+
+  <name>secondhibernate</name>
+>>>>>>> fa16d489a0b6f8deaa56f693580f53ef61c21d3f
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
@@ -35,7 +42,10 @@
     <artifactId>hibernate-core</artifactId>
     <version>6.6.29.Final</version>
 </dependency>
+<<<<<<< HEAD
 
+=======
+>>>>>>> fa16d489a0b6f8deaa56f693580f53ef61c21d3f
 <dependency>
     <groupId>com.mysql</groupId>
     <artifactId>mysql-connector-j</artifactId>

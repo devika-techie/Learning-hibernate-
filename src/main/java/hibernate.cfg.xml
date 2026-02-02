@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> fa16d489a0b6f8deaa56f693580f53ef61c21d3f
 <hibernate-configuration>
 <session-factory>
 <!-- Database connection settings-->
@@ -11,6 +14,10 @@
 <property name = "hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
 <property name = "hibernate.show_sql">true</property>
 <property name = "hibernate.format_sql">true</property>
+<<<<<<< HEAD
 <mapping class = "com.kodnest.firsthibernate1.Employee"/>
+=======
+<mapping class = "com.kodnest.secondhibernate.Bankuser"/>
+>>>>>>> fa16d489a0b6f8deaa56f693580f53ef61c21d3f
 </session-factory>
 </hibernate-configuration>
